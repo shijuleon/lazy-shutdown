@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Learn1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="beer_colors">
+
+        <item>Hey</item>
+        <item>This</item>
+        <item>Whats</item>
+    </string-array>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
